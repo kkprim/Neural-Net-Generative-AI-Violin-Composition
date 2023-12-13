@@ -1,5 +1,5 @@
 # Neural-Net-Violin-Composition
-!["corn field"](Images/violin_black_background.png)
+!["violin"](images/violin_black_background.png)
 Image by DALL-E
 ## Overview
 ## Business Problem
