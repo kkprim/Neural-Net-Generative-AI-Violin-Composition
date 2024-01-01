@@ -24,12 +24,14 @@ Diving into the world of music generation but with a twist – I'm using some re
 - **Where to Find It**: [Link to Data Folders](https://drive.google.com/drive/u/0/folders/16jsUFzij_pxj7f-OBSa0ioWp5Ub78uOl)
 
 
+
 ## The Challenges & Limitations
 - **The Power Struggle**: The main challenge? Not enough computing juice. Training models like WaveNet and LSTM can be a bit of a resource hog.
 
 - **Multiple Complex Models**: Juggling WaveNet, LSTM, and Jukebox isn't a walk in the park. It's a delicate balance of power and precision. But if that weren't enough, it's also necessary to blend complex music information retrieval tasks to build appropriate audio input for the models to use.
 
 - **Harmonizing with Failure**: It's a tale of trial and error, where each misstep is a note in the learning melody. Check out the 'Failed_Models_Spectrograms.ipynb' for comprehensive documentation.
+
 
 
 ## The Tech Behind the Tunes
@@ -44,9 +46,11 @@ Diving into the world of music generation but with a twist – I'm using some re
 5. **Jukebox (Pre-Trained by OpenAI)**: Think of it as standing on the shoulders of giants - I'm using this pre-trained model to add some extra flair to our creations.
 
 
+
 ## The Wrap
 This project shows that AI can not only understand music but also create it, and the results are pretty impressive, even with significant resource limits.
 - **The Final Audio**: [Listen Here](https://www.veed.io/view/0c383325-4e70-4e4a-9fac-367afb475b81?panel=share)
+
 
 
 ## The Next Steps
@@ -56,12 +60,26 @@ This project shows that AI can not only understand music but also create it, and
 
 - **A Symphony of Sounds**: Why stop at violins? There's a whole world of instruments and styles to explore.
 
+
 ## Contact Me!
 #####  Kari Primiano #####
 - Email: Kkprim@gmail.com
 - Linkedin: linkedin.com/in/kari-primiano
 - GitHub: github.com/kkprim
 
+
+# Notebook Directory
+``` bash
+├── AI_Violinist_Intro.ipynb                <- Data capture/project overview
+├── Model_1_WaveNet.ipynb                   <- Baseline/WaveNet Models
+├── Model_2_LSTM.ipynb                      <- First LSTM Model
+├── Model_3__Complex_LSTM.ipynb             <- Second LSTM Model
+├── Visual_Analysis_Model_Comparison.ipynb  <- Model Evaluation
+├── Pretrained_Model_Jukebox.ipynb          <- Generating Final Music
+└── Failed_Models_Spectrograms.ipynb        <- Failed attempts
+```
+
+# Github Directory
 ``` bash
 ├── Images                                  <- Images created by DALL-E
 ├── .gitattributes                          <- Attributes for pathnames
