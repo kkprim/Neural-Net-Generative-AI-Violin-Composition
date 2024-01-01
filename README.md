@@ -1,6 +1,6 @@
-# The AI Violinist: Crafting Notes Beyond Human
-!["violin"](images/AI_Violinist.png)
-Image by DALL-E
+# The AI Violinist
+### Crafting Notes Beyond Human
+<img src="images/AI_Violinist.png" alt="AI_Violinist" width="600" height="500"/>
 
 Welcome to this cool project where I'll be mixing the art of violin music with the latest in machine learning. It's all about blending traditional tunes with new-age tech.
 
