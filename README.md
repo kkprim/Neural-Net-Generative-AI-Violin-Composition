@@ -87,12 +87,6 @@ This project shows that AI can not only understand music but also create it, and
 ├── requirements.txt                        <- Contains environment setup for each notebook
 ├── Presentation_Slides.pdf                 <- Slide Presentation of the project
 ├── README.md                               <- Contains README file to be reviewed
-├── AI_Violinist_Intro.ipynb                <- Data capture/project overview
-├── Model_1_WaveNet.ipynb                   <- Baseline/WaveNet models
-├── Model_2_LSTM.ipynb                      <- First LSTM model
-├── Model_3__Complex_LSTM.ipynb             <- Second LSTM model
-├── Visual_Analysis_Model_Comparison.ipynb  <- Model evaluation
-├── Pretrained_Model_Jukebox.ipynb          <- Generating final music
-└── Failed_Models_Spectrograms.ipynb        <- Failed attempts
+└── notebooks                               <- All notebooks (intro, modeling, analysis)
 
 ```
