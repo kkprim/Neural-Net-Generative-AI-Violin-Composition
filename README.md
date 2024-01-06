@@ -21,7 +21,7 @@ Diving into the world of music generation but with a twist – I'm using some re
 
 - **Where It's From**: Big thanks to Spotify API for these gems, ensuring variety and top-notch quality in this musical dataset.
 
-- **Where to Find It**: [Link to Data Folders](https://drive.google.com/drive/u/0/folders/16jsUFzij_pxj7f-OBSa0ioWp5Ub78uOl)
+- **Where to Find It**: [Link to Data Folders](https://drive.google.com/drive/folders/1Ub8uVjoJIKPxxRVdAay-ybWZ2NvIV5Xq?usp=sharing)
 
 
 
